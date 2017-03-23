@@ -1,0 +1,2 @@
+# talk
+Talk for Ejabberd
